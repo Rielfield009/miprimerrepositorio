@@ -1,2 +1,6 @@
 # miprimerrepositorio
-para clase orientado objetos
+modificando para clase orientado objetos
+
+# modificando git
+
+hola mundo
